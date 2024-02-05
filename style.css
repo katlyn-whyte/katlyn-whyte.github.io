@@ -46,13 +46,13 @@ img {
 
 }
 
-.text {
+/* .text {
     float: left;
     width: 60%; 
     margin-left: 60px;
     background-color:blanchedalmond;
     
-}
+} */
 
 .image {
     float: right;
@@ -63,6 +63,7 @@ img {
 section {
     margin-bottom:700px;
     margin-left: 6%;
+    font-size: large;
     
 
 }
